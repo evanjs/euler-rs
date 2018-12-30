@@ -11,7 +11,6 @@
 /// ## Notes:
 /// See: https://en.wikipedia.org/wiki/Golden_ratio
 /// ** this must be stored as a f64
-
 pub const PHI: f64 = 1.618033988749895;
 
 /// Find the fibonacci number for the nth term

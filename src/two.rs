@@ -7,7 +7,6 @@
 //! By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 //!
 
-
 /// # The Golden Ratio
 /// ## Notes:
 /// See: https://en.wikipedia.org/wiki/Golden_ratio

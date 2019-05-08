@@ -5,3 +5,8 @@ authors = ["Evan Stoll <evanjsx@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+num-bigint = "0.2.2"
+num-traits = "0.2.6"
+cached = "0.8.0"
+stopwatch = "0.0.7"
+log = "0.4.6"
